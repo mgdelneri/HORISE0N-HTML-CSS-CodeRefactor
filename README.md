@@ -2,7 +2,7 @@
 
 In this project, I looked at and refactored existing code for a website developed for Horiseon. I was given the HTML and CSS files for this website:
 
-(photo)
+/Users/Marina/Desktop/homework coding/HORISEON-HTML-CSS-CodeRefactor/assets/images/01-html-css-git-homework-demo.png
 
 The goal of the project was to refactor this code in order to make it more accessible, which would, in turn, improve its search engine optimization. 
 

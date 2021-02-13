@@ -20,7 +20,7 @@ h1 {
     font-size: 48px;
 }
 
-h1 .seo {
+span {
     color: #d9dcd6;
 }
 
@@ -43,6 +43,7 @@ a {
     text-decoration: none;
 }
 
+/* Added a different color and underline to links on top of page in order to better show that they are links.*/
 a:hover {
     color:rgb(223, 171, 39);
     text-decoration: underline;
@@ -85,16 +86,19 @@ p {
     font-size: 16px;
 }
 
+/*This class name was left specific because it indicates a type of movement that may be used in other parts of the website in the future if need be.*/
 .float-left {
     float: left;
     margin-right: 25px;
 }
 
+/*This class name was left specific because it indicates a type of movement that may be used in other parts of the website in the future if need be.*/
 .float-right {
     float: right;
     margin-left: 25px;
 }
 
+/* The aside is separate from the main tag because it is styled differently and not as important.*/
 aside {
     margin-right: 20px;
     padding: 20px;
@@ -132,3 +136,5 @@ footer {
 footer h2 {
     font-size: 20px;
 }
+
+/**/

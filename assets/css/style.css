@@ -138,3 +138,18 @@ footer h2 {
 }
 
 /**/
+
+@media screen and (max-width: 1010px) {
+    header{
+        display: flex;
+        flex-flow: row;
+    }
+    ul {
+        display: flex;
+        flex-shrink: 1;
+        flex-flow: row;
+    }
+    li {
+        text-align: center;
+    }
+}

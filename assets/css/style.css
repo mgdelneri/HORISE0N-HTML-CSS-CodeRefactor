@@ -137,7 +137,7 @@ footer h2 {
     font-size: 20px;
 }
 
-/**/
+/*Responsive design with Media Query so links in header can adapt to smaller screen sizes.*/
 
 @media screen and (max-width: 1010px) {
     header{

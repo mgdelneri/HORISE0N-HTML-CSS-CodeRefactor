@@ -14,9 +14,11 @@ My initial difficulties had to do with using and mastering git. I started to und
 
 I also encountered difficulty with elements of responsive design and, in particular, media queries. I had some success, but I intend on researching and practicing this more. 
 
+In the process of refactoring this webpage, I have also realized that the work or project is never completely finished. There always seems to be a way to improve code and the design of a webpage. With that in mind, I am sending what I consider to be a good example of what I, someone that is very new to coding, could do in the time allotted. I intend to continue immersing myself in this field and building on my knowledge and experience. 
+
 The resulting webpage looks like the original, but with improved features. 
 In order to view the finished project, refer to this link: 
 
-(link to deployed application)
+ https://mgdelneri.github.io/HORISE0N-HTML-CSS-CodeRefactor/.
 
 

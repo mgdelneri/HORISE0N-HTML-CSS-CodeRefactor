@@ -8,9 +8,9 @@ The goal of the project was to refactor this code in order to make it more acces
 
 First, I changed the code in order to improve organization: improving HTML and CSS semantics, making sure the code followed a logical order, and consolidating code in CSS. 
 
-In order to improve accessibility and SEO, I changed the title element to better describe the function of the weboage; I added the alt attribute where applicable; I added descriptive titles to links and background image; I fixed a link that was not working; I added media query to improve responsive design.
+In order to improve accessibility and SEO, I changed the title element to better describe the function of the webpage; I added the alt attribute where applicable; I added descriptive titles to links and background image; I fixed a link that was not working; I added media query to improve responsive design.
 
-My initial difficulties had to do with using and mastering git. I started to understand it better and eventually it became easier. I still would have rather committed more often in the first few days of the project. 
+My initial difficulties had to do with using and mastering git. The more I researched, asked about, and practiced git, the more I started understanding it, and eventually it became easier. I still would have rather committed more often in the first few days of the project. 
 
 I also encountered difficulty with elements of responsive design and, in particular, media queries. I had some success, but I intend on researching and practicing this more. 
 
